@@ -85,7 +85,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" title="Git" />
   </p>
 
-  <br /><br />
+  <br />
 
   <h2><img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23ff79c6" width="22" valign="middle"> Estatísticas do GitHub</h2>
   <br />
