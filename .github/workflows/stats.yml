@@ -1,0 +1,35 @@
+name: generate stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Gera o card de estatísticas
+      - uses: github-readme-stats/github-readme-stats-action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_dir: dist
+          username: Madu2201
+          show_icons: true
+          theme: dracula
+          include_all_commits: true
+
+      # Envia os arquivos gerados para a branch stats-output
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: stats-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
