@@ -9,27 +9,23 @@ on:
       - main
 
 jobs:
-  generate:
+  publish:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      # Gera o card de estatísticas
-      - uses: github-readme-stats/github-readme-stats-action@main
+      # Gera os cards de estatísticas e linguagens em SVG
+      - uses: teoxoy/profile-readme-stats@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_dir: dist
-          username: Madu2201
-          show_icons: true
-          theme: dracula
-          include_all_commits: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: Madu2201
 
-      # Envia os arquivos gerados para a branch stats-output
+      # Envia para a branch stats-output
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: stats-output
-          build_dir: dist
+          build_dir: profile-summary-card-output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
