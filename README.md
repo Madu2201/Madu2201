@@ -50,10 +50,10 @@
 
   <br /><br />
 
-  <h3>👾 Contribuições</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madu2201/Madu2201/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madu2201/Madu2201/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Madu2201/Madu2201/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture>
+<h3>👾 Contribuições</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madu2201/Madu2201/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madu2201/Madu2201/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Madu2201/Madu2201/pacman-output/pacman-contribution-graph.svg">
+</picture>
 </div>
