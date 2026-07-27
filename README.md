@@ -30,7 +30,7 @@
 
   <br /><br />
 
-  <h3>📌 Sobre Mim & Experiência</h3>
+  <h3><img src="https://api.iconify.design/lucide:user.svg?color=%23ff79c6" width="22" valign="middle"> Sobre Mim & Experiência</h3>
   <p align="center" style="max-width: 700px;">
     Atualmente atuando como <b>Jovem Aprendiz na área de TI</b>, focada na evolução e manutenção de sistemas internos. 
     Tenho facilidade com organização, metodologias ágeis (Scrum) e forte atuação colaborativa em equipes de desenvolvimento, 
@@ -39,7 +39,7 @@
 
   <br />
 
-  <h3>🚀 Projetos em Destaque (Contribuições Frontend)</h3>
+  <h3><img src="https://api.iconify.design/lucide:rocket.svg?color=%23ff79c6" width="22" valign="middle"> Projetos em Destaque (Contribuições Frontend)</h3>
   <div align="center">
     <a href="https://github.com/Madu2201/quase-chef-app" target="_blank">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Madu2201&repo=quase-chef-app&theme=dracula&show_owner=true" />
@@ -58,7 +58,7 @@
 
   <br /><br />
 
-  <h3>🛠️ Tecnologias e Ferramentas</h3>
+  <h3><img src="https://api.iconify.design/lucide:code.svg?color=%23ff79c6" width="22" valign="middle"> Tecnologias e Ferramentas</h3>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="JavaScript" title="JavaScript" />
     &nbsp;&nbsp;
@@ -81,16 +81,17 @@
 
   <br /><br />
 
-  <h3>📊 Estatísticas do GitHub</h3>
+  <h3><img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23ff79c6" width="22" valign="middle"> Estatísticas do GitHub</h3>
   <div align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Madu2201&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Madu2201&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="Linguagens mais usadas" />
+    <br /><br />
     <img src="./profile/streak-stats.svg" alt="GitHub Streak">
   </div>
 
   <br /><br />
 
-  <h3>👾 Contribuições</h3>
+  <h3><img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23ff79c6" width="22" valign="middle"> Contribuições</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madu2201/Madu2201/pacman-output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madu2201/Madu2201/pacman-output/pacman-contribution-graph.svg">
