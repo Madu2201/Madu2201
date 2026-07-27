@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="180" src="https://i.imgflip.com/65efzo.gif" alt="GIF de apresentação" />
+ <a href="#">
+   <img src="https://github.com/user-attachments/assets/c0756f36-b840-4d8e-a9f3-fe53081615e5" width="200" height="200" style="border-radius: 20px; object-fit: cover;" alt="Minha Imagem" />
+ </a>  
 
   <h2>Olá! Me chamo Maria Eduarda 👋</h2>
 
