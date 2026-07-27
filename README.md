@@ -56,7 +56,7 @@
     </a>
   </div>
 
-  <br />
+  <br /><br />
 
   <h3>🛠️ Tecnologias e Ferramentas</h3>
   <p>
@@ -79,12 +79,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" title="Git" />
   </p>
 
-  <br />
+  <br /><br />
 
   <h3>📊 Estatísticas do GitHub</h3>
   <div align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Madu2201&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Madu2201&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="Linguagens mais usadas" />
+    <img src="./profile/streak-stats.svg" alt="GitHub Streak">
   </div>
 
   <br /><br />
