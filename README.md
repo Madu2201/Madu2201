@@ -4,9 +4,9 @@
   <h2>Olá! Me chamo Maria Eduarda 👋</h2>
 
   <p>
-    🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas (UNISUAM)</b><br />
-    💻 Desenvolvedora com foco em <b>Frontend, Web e Mobile</b><br />
-    🚀 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções inovadoras.
+    Estudante de <b>Análise e Desenvolvimento de Sistemas (UNISUAM)</b><br />
+    Desenvolvedora com foco em <b>Frontend, Web e Mobile</b><br />
+    Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções inovadoras.
   </p>
 
   <br />
