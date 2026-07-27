@@ -16,15 +16,12 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: generate pacman graph
-        uses: lowlighter/metrics@latest
+      - name: generate pacman-contribution-graph.svg
+        uses: SnuffyDev/snuffydev@master
         with:
-          filename: dist/pacman-contribution-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: push to output branch
+      - name: push pacman-contribution-graph.svg to the pacman-output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: pacman-output
