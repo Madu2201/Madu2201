@@ -44,9 +44,11 @@
 
   <br />
 
-  <h3>📊 Estatísticas do GitHub</h3>
-  <img src="https://raw.githubusercontent.com/Madu2201/Madu2201/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/Madu2201/Madu2201/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
+<h3>📊 Estatísticas do GitHub</h3>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Madu2201&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Madu2201&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="Linguagens mais usadas" />
+</div>
 
   <br /><br />
 
