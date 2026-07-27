@@ -17,7 +17,7 @@ jobs:
     
     steps:
       - name: generate pacman-contribution-graph.svg
-        uses: SnuffyDev/snuffydev@master
+        uses: SnuffyDev/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
