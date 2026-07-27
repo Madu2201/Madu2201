@@ -21,14 +21,17 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Gera a animação do pacman a partir do gráfico de contribuições do usuário
-      - name: generate pacman-contribution-graph.svg
-        uses: maurodesouza/pacman-contribution-graph@release
+      # Gera a animação das contribuições (estilo cobra/pacman)
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Envia os arquivos gerados para a branch pacman-output
-      - name: push pacman-contribution-graph.svg to the pacman-output branch
+      # Envia as imagens para a branch pacman-output
+      - name: push github-contribution-grid-snake.svg to the pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
