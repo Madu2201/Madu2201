@@ -35,26 +35,22 @@
 
   <br />
 
-  <h3>🚀 Principais Projetos</h3>
-  <table align="center">
-    <tr>
-      <td width="33%" valign="top">
-        <h4 align="center">📱 Quase Chef</h4>
-        <p align="center">App mobile para gestão inteligente de despensa doméstica com sugestão de receitas via IA.</p>
-        <p align="center"><b>Techs:</b> React Native, Expo, TypeScript, Supabase, Gemini API</p>
-      </td>
-      <td width="33%" valign="top">
-        <h4 align="center">⚙️ ALT365</h4>
-        <p align="center">Sistema corporativo de automação de processos internos e centralização de dados.</p>
-        <p align="center"><b>Techs:</b> PHP, MySQL, Tailwind CSS, HTML</p>
-      </td>
-      <td width="33%" valign="top">
-        <h4 align="center">🎮 GameSuam</h4>
-        <p align="center">Projeto acadêmico para gamificação da pesquisa institucional CPA na UNISUAM.</p>
-        <p align="center"><b>Techs:</b> JS, PHP, PostgreSQL, Tailwind CSS</p>
-      </td>
-    </tr>
-  </table>
+  <h3>🚀 Projetos em Destaque (Contribuições Frontend)</h3>
+<div align="center">
+  <a href="https://github.com/Madu2201/quase-chef-app" target="_blank">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Madu2201&repo=quase-chef-app&theme=dracula&show_owner=true" />
+  </a>
+  <a href="https://github.com/IsaStadtlober/mental_tech" target="_blank">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=mental_tech&theme=dracula&show_owner=true" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/IsaStadtlober/Start_Play" target="_blank">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=Start_Play&theme=dracula&show_owner=true" />
+  </a>
+  <a href="https://github.com/IsaStadtlober/projeto_personal" target="_blank">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=projeto_personal&theme=dracula&show_owner=true" />
+  </a>
+</div>
 
   <br />
 
