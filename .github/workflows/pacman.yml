@@ -16,12 +16,18 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Action mantida que gera o Pac-man oficial
-      - name: generate pacman-contribution-graph.svg
+      - name: generate pacman graph
         uses: lowlighter/metrics@latest
         with:
-          filename: pacman-contribution-graph.svg
+          filename: dist/pacman-contribution-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
