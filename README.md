@@ -14,11 +14,14 @@
 
   <br />
 
-  <a href="https://www.linkedin.com/in/dudacsantos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn" />
+  <a href="https://wa.me/5521986769592" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="32" alt="WhatsApp" />
   </a>
   <a href="mailto:dudacsantos450@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Gmail" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/madu_a_santos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="32" alt="Instagram" />
