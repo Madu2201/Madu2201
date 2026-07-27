@@ -1,7 +1,8 @@
 <div align="center">
- <a href="#">
-   <img src="https://github.com/user-attachments/assets/c0756f36-b840-4d8e-a9f3-fe53081615e5" width="200" height="200" style="border-radius: 20px; object-fit: cover;" alt="Minha Imagem" />
- </a>  
+
+  <a href="#">
+    <img src="https://github.com/user-attachments/assets/c0756f36-b840-4d8e-a9f3-fe53081615e5" width="180" height="180" style="border-radius: 50%; border: 4px solid #ff79c6; object-fit: cover;" alt="Maria Eduarda" />
+  </a>
 
   <h2>Olá! Me chamo Maria Eduarda 👋</h2>
 
@@ -14,13 +15,13 @@
   <br />
 
   <a href="https://www.linkedin.com/in/dudacsantos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn" />
   </a>
   <a href="mailto:dudacsantos450@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/madu_a_santos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="32" alt="Instagram" />
   </a>
 
   <br /><br />
@@ -29,51 +30,52 @@
 
   <br /><br />
 
-  <h3>📌 Sobre Mim</h3>
-  <p align="center">
-    Atualmente atuando como Jovem Aprendiz na área de TI, desenvolvendo e evoluindo sistemas internos.<br />
-    Tenho facilidade com organização, metodologia ágil (SCRUM) e constante busca por evolução técnica.
+  <h3>📌 Sobre Mim & Experiência</h3>
+  <p align="center" style="max-width: 700px;">
+    Atualmente atuando como <b>Jovem Aprendiz na área de TI</b>, focada na evolução e manutenção de sistemas internos. 
+    Tenho facilidade com organização, metodologias ágeis (Scrum) e forte atuação colaborativa em equipes de desenvolvimento, 
+    especialmente na construção de interfaces modernas e responsivas para Web e Mobile.
   </p>
 
   <br />
 
   <h3>🚀 Projetos em Destaque (Contribuições Frontend)</h3>
-<div align="center">
-  <a href="https://github.com/Madu2201/quase-chef-app" target="_blank">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Madu2201&repo=quase-chef-app&theme=dracula&show_owner=true" />
-  </a>
-  <a href="https://github.com/IsaStadtlober/mental_tech" target="_blank">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=mental_tech&theme=dracula&show_owner=true" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/IsaStadtlober/Start_Play" target="_blank">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=Start_Play&theme=dracula&show_owner=true" />
-  </a>
-  <a href="https://github.com/IsaStadtlober/projeto_personal" target="_blank">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=projeto_personal&theme=dracula&show_owner=true" />
-  </a>
-</div>
+  <div align="center">
+    <a href="https://github.com/Madu2201/quase-chef-app" target="_blank">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Madu2201&repo=quase-chef-app&theme=dracula&show_owner=true" />
+    </a>
+    <a href="https://github.com/IsaStadtlober/mental_tech" target="_blank">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=mental_tech&theme=dracula&show_owner=true" />
+    </a>
+    <br /><br />
+    <a href="https://github.com/IsaStadtlober/Start_Play" target="_blank">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=Start_Play&theme=dracula&show_owner=true" />
+    </a>
+    <a href="https://github.com/IsaStadtlober/projeto_personal" target="_blank">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=projeto_personal&theme=dracula&show_owner=true" />
+    </a>
+  </div>
 
   <br />
 
   <h3>🛠️ Tecnologias e Ferramentas</h3>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="JavaScript" title="JavaScript" />
-    &nbsp;
+    &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" title="TypeScript" />
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React Native" title="React Native" />
-    &nbsp;
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React Native" title="React" />
+    &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" title="HTML5" />
-    &nbsp;
+    &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" title="CSS3" />
-    &nbsp;
+    &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS" title="Tailwind CSS" />
-    &nbsp;
+    &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP" title="PHP" />
-    &nbsp;
+    &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" title="MySQL" />
-    &nbsp;
+    &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" title="Git" />
   </p>
 
