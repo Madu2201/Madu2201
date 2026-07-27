@@ -1,5 +1,5 @@
 <p>
-  <a href="README.pt-br.md">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/Portugu%C3%AAs-PT--BR-ff79c6?style=for-the-badge&logo=brazil" alt="Portuguese Version" />
   </a>
   &nbsp;
