@@ -26,6 +26,9 @@
 
   <br />
 
+  <a href="https://portfolio-maria-delta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="32" alt="Portfólio" />
+  </a>
   <a href="https://wa.me/5521986769592" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="32" alt="WhatsApp" />
   </a>
@@ -50,10 +53,10 @@
   <p align="center" style="max-width: 700px;">
     Atualmente atuando como <b>Jovem Aprendiz na área de TI</b>, focada na evolução e manutenção de sistemas internos. 
     Tenho facilidade com organização, metodologias ágeis (Scrum) e forte atuação colaborativa em equipes de desenvolvimento, 
-    especialmente na construção de interfaces modernas e responsivas para Web e Mobile.
+    especialmente na construção de interfaces modernas e responsivas para Web e Mobile.<br /><br />
   </p>
 
-  <br /><br />
+  <br />
 
   <h2><img src="https://api.iconify.design/lucide:rocket.svg?color=%23ff79c6" width="22" valign="middle"> Projetos em Destaque (Contribuições Frontend)</h2>
   <br />
