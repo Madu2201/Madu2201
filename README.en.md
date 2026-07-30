@@ -27,7 +27,7 @@
   <br />
 
   <a href="https://portfolio-maria-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="32" alt="Portfólio" />
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="32" alt="Portfolio" />
   </a>
   <a href="https://wa.me/5521986769592" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="32" alt="WhatsApp" />
