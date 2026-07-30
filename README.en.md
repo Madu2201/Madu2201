@@ -58,16 +58,20 @@
   <h2><img src="https://api.iconify.design/lucide:rocket.svg?color=%23ff79c6" width="22" valign="middle"> Featured Projects (Frontend Contributions)</h2>
   <br />
   <div align="center">
+    <a href="https://github.com/Madu2201/portfolio-maria" target="_blank">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Madu2201&repo=portfolio-maria&theme=dracula&show_owner=true" />
+    </a>
     <a href="https://github.com/Madu2201/quase-chef-app" target="_blank">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Madu2201&repo=quase-chef-app&theme=dracula&show_owner=true" />
     </a>
+    <br /><br />
     <a href="https://github.com/IsaStadtlober/mental_tech" target="_blank">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=mental_tech&theme=dracula&show_owner=true" />
     </a>
-    <br /><br />
     <a href="https://github.com/IsaStadtlober/Start_Play" target="_blank">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=Start_Play&theme=dracula&show_owner=true" />
     </a>
+    <br /><br />
     <a href="https://github.com/IsaStadtlober/projeto_personal" target="_blank">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IsaStadtlober&repo=projeto_personal&theme=dracula&show_owner=true" />
     </a>
